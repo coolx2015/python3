@@ -20,3 +20,6 @@ print(len(b))
 
 print(b.upper())
 
+print(a.replace)
+
+this line has been added
