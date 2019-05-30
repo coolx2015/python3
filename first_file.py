@@ -22,4 +22,6 @@ print(b.upper())
 
 print(a.replace)
 
-this line has been added
+# Starting next from Python operators in w3schools
+
+
